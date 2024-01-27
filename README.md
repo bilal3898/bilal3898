@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilal3898
+👋 Hi, I’m @bilal3898
 - 👀 I’m interested in ... software engineering 
 - 🌱 I’m currently learning ... programming 
 - 💞️ I’m looking to collaborate on ... with project 
